@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a Gatsby.js
+title: Great coffee with a Netlify.cms (Gatsby FE)
 image: /img/blog-index.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
